@@ -1,2 +1,5 @@
-# Hiii
-🔭 I’m currently working on Private Enterprise  🌱 I’m currently learning Debug Tools, Unit Testing, Json Web Token  💬 Ask me about HTML5(CSS, JavaScript), Laravel, C#, DataBases
+# Hiii Im Anthon
+
+🔭 I’m currently searching for a Private Enterprise  
+🌱 I’m currently learning Debug Tools, Unit Testing, Unity Developemenet 
+💬 Ask me about SQL Server, HTML, C#, DataBases
